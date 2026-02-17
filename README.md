@@ -42,6 +42,7 @@ Focused on practical ML pipelines, structured data workflows, and full-stack dev
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 </p>
+
 ---
 
 ## 📌 Highlighted Work
@@ -61,10 +62,8 @@ ASP.NET Core Web API for managing hospital staff scheduling.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yael-shalom&show_icons=true&hide_title=true&rank_icon=github&theme=dark&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yael-shalom&layout=compact&theme=dark&cache_seconds=1800" />
-</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yael-shalom&layout=compact&theme=github_dark"/>
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yael-shalom&show_icons=true&hide_title=true&rank_icon=github&theme=dark" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yael-shalom&layout=compact&theme=dark" />
 </p>
 
 ---
