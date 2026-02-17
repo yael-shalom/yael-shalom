@@ -62,8 +62,10 @@ ASP.NET Core Web API for managing hospital staff scheduling.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yael-shalom&show_icons=true&hide_title=true&rank_icon=github&theme=dark" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yael-shalom&layout=compact&theme=dark" />
+  <img height="170"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=yael-shalom&show_icons=true&theme=dark&hide_title=true&rank_icon=github" />
+  <img height="170"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yael-shalom&layout=compact&theme=dark" />
 </p>
 
 ---
