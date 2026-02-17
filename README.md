@@ -59,12 +59,6 @@ ASP.NET Core Web API for managing hospital staff scheduling.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yael-shalom&theme=dark)
-
----
-
 ## 📫 Contact
 
 📧 yael7147757@gmail.com  
